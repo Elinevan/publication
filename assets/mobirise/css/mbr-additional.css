@@ -4,6 +4,12 @@
 
 
 
+#content1-41 P {
+  color: #000000;
+  font-family: 'PT Serif', serif;
+  font-size: 16px;
+  text-align: center;
+}
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -24,12 +30,6 @@
   color: #ffffff;
   font-family: 'PT Serif', serif;
   font-size: 12px;
-}
-#content1-41 P {
-  color: #000000;
-  font-family: 'PT Serif', serif;
-  font-size: 16px;
-  text-align: center;
 }
 #contacts1-29 STRONG {
   color: #000000;
