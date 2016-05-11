@@ -1,0 +1,5 @@
+.mbr-navbar__menu-box--inline-left .mbr-navbar__column,
+.mbr-navbar__menu-box--inline-center .mbr-navbar__column,
+.mbr-navbar__menu-box--inline-right .mbr-navbar__column {
+    margin-left: 4.5%;
+}
